@@ -1,0 +1,5 @@
+A1#KakiTiga#33#100000
+A2#Panther#72#19000
+A3#Lola#11#20000
+A4#Panda#120#91000
+A5#SejukSegar#109#38000
